@@ -1,3 +1,4 @@
+@ -1,22 +0,0 @@
 public class Player {
 
     private final String name;
