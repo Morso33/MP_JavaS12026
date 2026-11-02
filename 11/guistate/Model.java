@@ -1,5 +1,3 @@
-package memento.guistate;
-
 public class Model {
     private int[] options = new int[3];
     private boolean isSelected;
